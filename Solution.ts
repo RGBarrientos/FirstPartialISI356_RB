@@ -8,6 +8,7 @@ Dependency Inversion Principle: Se inyecta IEmailService en LibraryManager, lo q
 
 Inyección de Dependencias:
 Inyectar IEmailService en LibraryManager.
+Hecho
 
 Lambda Expressions:
 Usar expresiones lambda en funciones como find y forEach.
@@ -20,9 +21,11 @@ Los usuarios (User) se registran como observadores y son notificados cuando se a
 
 Builder Pattern:
 Se utiliza para construir instancias de Book de una manera más limpia y escalable.
+Hecho
 
 Refactorización:
 eliminar el uso de ANY mejorar el performance
+Hecho
 
 Aspectos (Opcional)
 Puedes anadir logs de info, warning y error en las llamadas, para un mejor control
